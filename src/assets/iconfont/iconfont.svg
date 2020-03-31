@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="zhuyi-yin" unicode="&#59023;" d="M970.752 125.952l-362.496 606.208c-53.248 88.064-137.216 88.064-190.464 0l-362.496-606.208c-53.248-88.064-12.288-157.696 90.112-157.696h737.28c100.352 0 139.264 71.68 88.064 157.696z m-446.464-34.816c0-12.288-10.24-22.528-22.528-22.528s-22.528 10.24-22.528 22.528v61.44c0 12.288 10.24 22.528 22.528 22.528s22.528-10.24 22.528-22.528v-61.44z m0 163.84c0-12.288-10.24-22.528-22.528-22.528s-22.528 10.24-22.528 22.528v307.2c0 12.288 10.24 22.528 22.528 22.528s22.528-10.24 22.528-22.528v-307.2z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
